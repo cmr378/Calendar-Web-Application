@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>adbCaseStudy</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.ajdt.core.ajbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.springframework.ide.eclipse.core.springbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.springframework.ide.eclipse.boot.validation.springbootbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.ajdt.ui.ajnature</nature>
+		<nature>org.springframework.ide.eclipse.core.springnature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+		<nature>org.eclipse.jem.workbench.JavaEMFNature</nature>
+		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
+		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>WebContent/resources/js</name>
+			<type>2</type>
+			<location>/Users/Carlos/Desktop/case study/web-contents/js</location>
+		</link>
+		<link>
+			<name>WebContent/resources/css/create.css</name>
+			<type>1</type>
+			<location>/Users/Carlos/Desktop/case study/web-contents/css/create.css</location>
+		</link>
+		<link>
+			<name>WebContent/resources/css/home.css</name>
+			<type>1</type>
+			<location>/Users/Carlos/Desktop/case study/web-contents/css/home.css</location>
+		</link>
+		<link>
+			<name>WebContent/resources/css/learn.css</name>
+			<type>1</type>
+			<location>/Users/Carlos/Desktop/case study/web-contents/css/learn.css</location>
+		</link>
+		<link>
+			<name>WebContent/resources/css/login.css</name>
+			<type>1</type>
+			<location>/Users/Carlos/Desktop/case study/web-contents/css/login.css</location>
+		</link>
+		<link>
+			<name>WebContent/resources/css/u2.css</name>
+			<type>1</type>
+			<location>/Users/Carlos/Desktop/case study/web-contents/css/u2.css</location>
+		</link>
+		<link>
+			<name>WebContent/resources/imgs/gathering.svg</name>
+			<type>1</type>
+			<location>/Users/Carlos/Desktop/case study/web-contents/imgs/gathering.svg</location>
+		</link>
+		<link>
+			<name>WebContent/resources/imgs/group.png</name>
+			<type>1</type>
+			<location>/Users/Carlos/Desktop/case study/web-contents/imgs/group.png</location>
+		</link>
+		<link>
+			<name>WebContent/resources/imgs/home1.png</name>
+			<type>1</type>
+			<location>/Users/Carlos/Desktop/case study/web-contents/imgs/home1.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>

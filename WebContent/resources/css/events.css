@@ -1,0 +1,48 @@
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+#event-card {
+  	box-shadow: 0px 0px 7px 7px rgba(0,0,0,0.1);
+	margin-top: 1em; 
+}
+
+.col h4 {
+	transform: skew(-10deg); 
+	font-weight: 900; 
+	color:red; 
+}
+
+span {
+	margin-left: 5em; 
+}
+
+p {
+	margin-left: 10em; 
+}
+
+i {
+	color:red; 
+}
+
+
+form input {
+	display:none; 
+}
+
+form button {
+	border: none;
+	background:none; 
+}
+
+.delete i {
+	position: relative;
+    top: calc(50% - .5em);
+    padding-right: 2em;
+    cursor:pointer; 
+}
+
+#event-card .col {
+	padding: 2em; 
+}
+
